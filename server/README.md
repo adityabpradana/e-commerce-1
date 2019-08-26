@@ -1,6 +1,6 @@
 # E-Commerce Documentation
 
-Url : [http://](https://34.67.3.220/)localhost:3000
+Url : [http://35.193.210.4/api](http://35.193.210.4/api)
 
 **Start apps**
 
